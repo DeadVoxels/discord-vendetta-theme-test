@@ -1,10 +1,14 @@
 {
-    "name": "Orange Mountains",
+    "name": "Orange Mountains edit thingie",
     "description": "A simple theme for Vendetta with an image of orange mountains. DARK MODE REQUIRED!",
     "authors": [
         {
             "name": "Wizzy#0211",
             "id": "715443625580036128"
+        },
+        {
+            "name": "DeadVoxels#3520",
+            "id": "239411543941447681"
         }
     ],
     "semanticColors": {
@@ -36,13 +40,13 @@
             "#7e7980"
         ],
         "BACKGROUND_PRIMARY": [
-            "#474443"
+            "#374453"
         ],
         "BACKGROUND_SECONDARY": [
-            "#6d7480"
+            "#383d4c"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#6d7480"
+            "#3d404a"
         ],
         "BACKGROUND_TERTIARY": [
             "#181818"
@@ -57,7 +61,7 @@
             "#2e2c2c"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#303d4c"
+            "#383d4c"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#2e2c2c"
