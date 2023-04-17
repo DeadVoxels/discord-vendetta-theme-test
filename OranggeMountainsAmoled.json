@@ -127,7 +127,7 @@
     "background": {
         "blur": 5,
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
-        "alpha": 0.5,
+        "alpha": 0.25,
         "color": "#000000"
     }
 }
