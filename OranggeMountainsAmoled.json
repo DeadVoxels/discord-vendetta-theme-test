@@ -48,7 +48,7 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#00000056"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
             "#ed6a19"
@@ -107,8 +107,8 @@
         "PRIMARY_500": "#ed6a19",
         "PRIMARY_600": "000000056",
         "PRIMARY_630": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#ed6a19",
+        "PRIMARY_660": "#00000056",
+        "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000bc",
         "BRAND_260": "#ed6a19",
         "BRAND_360": "#ed6a19",
