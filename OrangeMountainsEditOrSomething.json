@@ -49,7 +49,7 @@
             "#182022"
         ],
         "BACKGROUND_TERTIARY": [
-            "#ffffff"
+            "#181818"
         ],
         "BACKGROUND_ACCENT": [
             "#0590fa"
@@ -88,7 +88,7 @@
             "#0590fa"
         ],
         "CHAT_BACKGROUND": [
-            "#181818"
+            "#ffffff"
         ],
         "CHANNELS_DEFAULT": [
             "#999999"
