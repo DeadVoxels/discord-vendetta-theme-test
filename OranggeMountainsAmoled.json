@@ -24,7 +24,7 @@
             "#565656"
         ],
         "TEXT_LINK": [
-            "#ed3a19"
+            "#ed1f19"
         ],
         "TEXT_DANGER": [
             "#ed6a19"
@@ -75,7 +75,7 @@
             "#ed6a19"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#ed6a19"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#000000"
