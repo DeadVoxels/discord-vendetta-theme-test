@@ -9,25 +9,25 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#3271a8"
+            "#0590fa"
         ],
         "HEADER_SECONDARY": [
-            "#827b79"
+            "#727b89"
         ],
         "TEXT_NORMAL": [
-            "#c9bbb7"
+            "#b9bbc7"
         ],
         "TEXT_MUTED": [
             "#7e7980"
         ],
         "TEXT_LINK": [
-            "#42618a"
+            "#0590fa"
         ],
         "TEXT_DANGER": [
             "#a83e32"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3271a8"
+            "#0590fa"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
@@ -39,37 +39,37 @@
             "#474443"
         ],
         "BACKGROUND_SECONDARY": [
-            "#7d7470"
+            "#6d7480"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#7d7470"
+            "#6d7480"
         ],
         "BACKGROUND_TERTIARY": [
             "#181818"
         ],
         "BACKGROUND_ACCENT": [
-            "#3271a8"
+            "#0590fa"
         ],
         "BACKGROUND_FLOATING": [
-            "#403e3d"
+            "#303e4d"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#2e2c2c"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#403d3c"
+            "#303d4c"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#2e2c2c"
         ],
         "BACKGROUND_MENTIONED": [
-            "transparent"
+            "#0590fa55"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#181818"
+            "#0590fa55"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#3c80b5"
+            "#0590fa"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#3c80b5"
@@ -81,7 +81,7 @@
             "#2a303655"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#31546e"
+            "#0590fa"
         ],
         "CHAT_BACKGROUND": [
             "#181818"
@@ -90,41 +90,41 @@
             "#999999"
         ],
         "TEXT_LINK": [
-            "#4379a3"
+            "#0590fa"
         ],
         "CHANNEL_ICON": [
-            "#4379a3"
+            "#0590fa"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#3271a8",
-        "PRIMARY_500": "#3271a8",
+        "PRIMARY_360": "#0590fa",
+        "PRIMARY_500": "#0590fa",
         "PRIMARY_600": "#181818",
         "PRIMARY_630": "#181818",
         "PRIMARY_660": "#181818",
         "PRIMARY_700": "#181818",
         "PRIMARY_800": "#181818",
-        "BRAND_260": "#3271a8",
-        "BRAND_360": "#3271a8",
-        "BRAND_500": "#3271a8",
+        "BRAND_260": "#0590fa",
+        "BRAND_360": "#0590fa",
+        "BRAND_500": "#0590fa",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#3271a8",
-        "YELLOW_300": "#3271a8",
-        "ORANGE_345": "#3271a8",
-        "GREEN_345": "#3271a8",
-        "GREEN_360": "#3271a8",
-        "RED_560" : "#3271a8",
-        "RED_400": "#3271a8"
+        "BLUE_345": "#0590fa",
+        "YELLOW_300": "#0590fa",
+        "ORANGE_345": "#0590fa",
+        "GREEN_345": "#0590fa",
+        "GREEN_360": "#0590fa",
+        "RED_560" : "#0590fa",
+        "RED_400": "#0590fa"
     },
     "spec": 2,
     "background": {
-        "blur": 3,
+        "blur": 5,
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/OrangeMountains/wallpaper.jpg",
-        "alpha": 0.75,
+        "alpha": 0.5,
         "color": "#181818"
     }
 }
