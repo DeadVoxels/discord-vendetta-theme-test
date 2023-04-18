@@ -1,5 +1,5 @@
 {
-    "name": "Orange Mountains AMOLED",
+    "name": "Blue Mountains AMOLED",
     "description": "An easy on the eyes, glassy theme for Vendetta. Now (hope)fully AMOLED compatible! DARK MODE REQUIRED!",
     "authors": [
         {
@@ -126,7 +126,7 @@
     "spec": 2,
     "background": {
         "blur": 5,
-        "url": "https://github.com/DeadVoxels/discord-vendetta-theme-test/blob/main/Picsart_23-04-18_13-04-26-194.jpg?raw=true",
+        "url": "https://raw.githubusercontent.com/DeadVoxels/discord-vendetta-theme-test/main/Picsart_23-04-18_13-04-26-194.jpg?token=GHSAT0AAAAAACBRC6X67MXBB62FLUW6G5WAZB6PLNQ",
         "alpha": 0.35,
         "color": "#000000"
     }
