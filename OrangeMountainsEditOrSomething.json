@@ -1,134 +1,133 @@
 {
-    "name": "Orange Mountains edit thingie",
-    "description": "A simple theme for Vendetta with an image of orange mountains. DARK MODE REQUIRED!",
+    "name": "Orange Mountains AMOLED",
+    "description": "An easy on the eyes, glassy theme for Vendetta. Now (hope)fully AMOLED compatible! DARK MODE REQUIRED!",
     "authors": [
         {
             "name": "Wizzy#0211",
             "id": "715443625580036128"
         },
         {
-            "name": "DeadVoxels#3520",
-            "id": "239411543941447681"
+            "name": "DeadVoxels#3520"
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#0590fa"
+            "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#727b89"
+            "#1d7cdb"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
         ],
         "TEXT_MUTED": [
-            "#7e7980"
+            "#565656"
         ],
         "TEXT_LINK": [
-            "#0590fa"
+            "#1d7cdb"
         ],
         "TEXT_DANGER": [
-            "#d1281f"
+            "#ed2519"
         ],
         "INTERACTIVE_NORMAL": [
-            "#0590fa"
+            "#ffffff"
         ],
         "INTERACTIVE_ACTIVE": [
             "#ffffff"
         ],
         "INTERACTIVE_MUTED": [
-            "#7e7980"
+            "#565656"
         ],
         "BACKGROUND_PRIMARY": [
-            "#374453"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#383d4c"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#182022"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#181818"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#0590fa"
+            "#1d7cdb"
         ],
         "BACKGROUND_FLOATING": [
-            "#303e4d"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#2e2c2c"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#383d4c"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#2e2c2c"
+            "#000000"
         ],
         "BACKGROUND_MENTIONED": [
-            "#0590fa55"
+            "#4d8fd156"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#0590fa55"
+            "#000000"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#0590fa"
+            "#1d7cdb"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#3c80b5"
+            "#1d7cdb"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#2a3036"
+            "#000000"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#2a303655"
+            "00000055"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#0590fa"
+            "#999999"
         ],
         "CHAT_BACKGROUND": [
-            "#181818"
+            "#000000"
         ],
         "CHANNELS_DEFAULT": [
             "#999999"
         ],
         "TEXT_LINK": [
-            "#0590fa"
+            "#1d7cdb"
         ],
         "CHANNEL_ICON": [
-            "#0590fa"
+            "#ffffff"
         ]
     },
     "rawColors": {
         "PRIMARY_100": "#ffffff",
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
-        "PRIMARY_360": "#0590fa",
-        "PRIMARY_500": "#0590fa",
-        "PRIMARY_600": "#383d4c",
-        "PRIMARY_630": "#383d4c",
-        "PRIMARY_660": "#181818",
-        "PRIMARY_700": "#181818",
-        "PRIMARY_800": "#181818",
-        "BRAND_260": "#0590fa",
-        "BRAND_360": "#0590fa",
-        "BRAND_500": "#0590fa",
+        "PRIMARY_360": "#1d7cdb",
+        "PRIMARY_500": "#1d7cdb",
+        "PRIMARY_600": "000000056",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#00000056",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000bc",
+        "BRAND_260": "#1d7cdb",
+        "BRAND_360": "#1d7cdb",
+        "BRAND_500": "#1d7cdb",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#0590fa",
-        "YELLOW_300": "#0590fa",
-        "ORANGE_345": "#0590fa",
-        "GREEN_345": "#0590fa",
-        "GREEN_360": "#0590fa",
-        "RED_560" : "#0590fa",
-        "RED_400": "#0590fa"
+        "BLUE_345": "#1d7cdb",
+        "YELLOW_300": "#1d7cdb",
+        "ORANGE_345": "#1d7cdb",
+        "GREEN_345": "#1d7cdb",
+        "GREEN_360": "#1d7cdb",
+        "RED_560" : "#1d7cdb",
+        "RED_400": "#1d7cdb"
     },
     "spec": 2,
     "background": {
         "blur": 5,
-        "url": "https://cdn.discordapp.com/attachments/758217406975049740/1097401574235574283/Picsart_23-01-24_00-57-24-061.png",
-        "alpha": 0.5,
-        "color": "#181818"
+        "url": "https://raw.githubusercontent.com/DeadVoxels/discord-vendetta-theme-test/main/Wallpaper.jpg?token=GHSAT0AAAAAACBRC6X7ME7T6SKNHMCZCEE4ZB6G2YA",
+        "alpha": 0.35,
+        "color": "#000000"
     }
 }
