@@ -7,7 +7,8 @@
             "id": "715443625580036128"
         },
         {
-            "name": "DeadVoxels#3520"
+            "name": "DeadVoxels#3520",
+            "id": ""
         }
     ],
     "semanticColors": {
@@ -114,10 +115,7 @@
         "BRAND_360": "#ed6a19",
         "BRAND_500": "#ed6a19",
         "BRAND_560": "#ffffff",
-        "WHITE_500": "#ffffff",
-        "YELLOW_300": "#ed6a19",
-        "GREEN_360": "#ed6a19",
-        "RED_400": "#ed6a19"
+        "WHITE_500": "#ffffff"
     },
     "spec": 2,
     "background": {
