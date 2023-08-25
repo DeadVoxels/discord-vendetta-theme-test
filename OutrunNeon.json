@@ -81,6 +81,19 @@
     "BLACK_860": "#000000",
     "BLACK_900": "#000000"
 },
+  "plus":{
+    "version":"0",
+    "iconpack":"rosiecord-plumpy",
+    "icons":{
+    "ic_new_pins":"#b4637a",
+    "StatusStreaming": "#907aa9",
+    "StatusMobileOnline": "#56949f",
+    "StatusIdle": "#d7827e",
+    "StatusDND": "#b4637a",
+    "StatusOffline": "#9893a5",
+    "StatusOnline": "#56949f"
+ }
+  },
 "spec": 2,
 "background": {
   "blur": 5,
