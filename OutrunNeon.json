@@ -79,20 +79,6 @@
     "BLACK_860": "#000000",
     "BLACK_900": "#000000"
       },
-  "rawColors": {
-      "PRIMARY_100": "#2b2a2a",
-      "PRIMARY_130": "#2b2a2a",
-      "PRIMARY_160": "#2b2a2a",
-      "PRIMARY_300": "#2b2a2a",
-      "PRIMARY_360": "#2b2a2a",    
-      "PRIMARY_400": "#2b2a2a",
-      "PRIMARY_500": "#2b2a2a",
-      "PRIMARY_600": "#2b2a2a",
-      "PRIMARY_630": "#2b2a2a",
-      "PRIMARY_660": "#2b2a2a",
-      "PRIMARY_700": "#2b2a2a",
-      "PRIMARY_800": "#2b2a2a"
-},
   "plus":{
     "version":"0",
     "iconpack":"rosiecord-plumpy",
