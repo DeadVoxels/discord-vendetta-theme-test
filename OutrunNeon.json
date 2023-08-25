@@ -79,6 +79,9 @@
     "BLACK_860": "#000000",
     "BLACK_900": "#000000"
       },
+    "rawColors": {
+      "PRIMARY_600": "#2b2a2a00"
+},
   "plus":{
     "version":"0",
     "iconpack":"rosiecord-plumpy",
