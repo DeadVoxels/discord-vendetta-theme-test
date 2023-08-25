@@ -36,7 +36,7 @@
       "#bd26a1", "#781766"
     ],
     "BACKGROUND_PRIMARY": [
-      "#2b2a2a80", "#19191a"
+      "#2b2a2a", "#19191a"
     ],
     "BACKGROUND_SECONDARY": [
       "#45454d", "#2e3033"
@@ -54,7 +54,7 @@
       "#6d696e", "#4c494d"
     ],
     "CHAT_BACKGROUND": [
-      "#2b2a2a80"
+      "#2b2a2aa0"
     ],
     "HEADER_PRIMARY": [
       "#ced2d6", "#9da0a3"
