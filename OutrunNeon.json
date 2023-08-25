@@ -1,0 +1,91 @@
+{
+  "name": "Outrun Neon",
+  "description": "An Outrun/Synthwave inspired theme",
+  "authors": [
+    {
+      "name": "DeadVoxels",
+      "id": "239411543941447681"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#188ff0", "#188ff0"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#343236", "#110d12"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#188ff030"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#252226", "#0a000d"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#343236", "#110d12"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#3d294a", "#1a141f"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#374c6b30", "#2b384d30"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#52376c30", "#3d2c4e"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#bd26a1", "#781766"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#2b2a2a", "#19191a"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#45454d", "#2e3033"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "00000000"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#1b1121", "#150e1a"
+    ],
+    "CHANNEL_ICON": [
+      "#1d73cf", "#1e558f"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#6d696e", "#4c494d"
+    ],
+    "CHAT_BACKGROUND": [
+      "#00000000"
+    ],
+    "HEADER_PRIMARY": [
+      "#ced2d6", "#9da0a3"
+    ],
+    "HEADER_SECONDARY": [
+      "#801473", "#52214c"
+    ],
+    "HOME_BACKGROUND": [
+      "#ffff00", "#ffff00"
+    ]
+      },
+  "rawColors": {
+    "BLACK_500": "#000000",
+    "BLACK_530": "#000000",
+    "BLACK_560": "#000000",
+    "BLACK_600": "#000000",
+    "BLACK_630": "#000000",
+    "BLACK_660": "#000000",
+    "BLACK_700": "#000000",
+    "BLACK_730": "#000000",
+    "BLACK_760": "#000000",
+    "BLACK_800": "#000000",
+    "BLACK_830": "#000000",
+    "BLACK_860": "#000000",
+    "BLACK_900": "#000000"
+},
+"spec": 2,
+"background": {
+  "blur": 5,
+  "url": "https://github.com/DeadVoxels/Vendetta-Outrun-Theme/blob/main/IsometricOutrun.png?raw=true",
+  "alpha": 0.35,
+  "color": "#000000"
+}
+}
