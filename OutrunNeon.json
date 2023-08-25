@@ -87,7 +87,7 @@
       "PRIMARY_360": "#2b2a2a",    
       "PRIMARY_400": "#2b2a2a",
       "PRIMARY_500": "#2b2a2a",
-      "PRIMARY_600": "#2b2a2a80",
+      "PRIMARY_600": "#2b2a2aa0",
       "PRIMARY_630": "#2b2a2a",
       "PRIMARY_660": "#2b2a2a",
       "PRIMARY_700": "#2b2a2a",
@@ -111,7 +111,7 @@
 "background": {
   "blur": 5,
   "url": "https://github.com/DeadVoxels/discord-vendetta-theme-test/blob/main/IsometricOutrun.png?raw=true",
-  "alpha": 0.35,
+  "alpha": 0.15,
   "color": "#000000"
 }
 }
